@@ -25,6 +25,10 @@
 		{
 			"Name": "DataSerializer",
 			"Enabled": true
-		}
+		},
+		{
+			"Name": "EasySettings",
+			"Enabled": true
+		}    
 	]
 }

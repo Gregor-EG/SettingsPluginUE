@@ -38,7 +38,8 @@ public class SettingsPlugin : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
-                "DataSerializer"
+                "DataSerializer",
+				"EasySettings"
 				// ... add private dependencies that you statically link with here ...	
 			}
             );
