@@ -38,9 +38,10 @@ public class SettingsPlugin : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
+                "DataSerializer"
 				// ... add private dependencies that you statically link with here ...	
 			}
-			);
+            );
 		
 		
 		DynamicallyLoadedModuleNames.AddRange(
