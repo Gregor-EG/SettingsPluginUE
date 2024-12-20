@@ -41,7 +41,8 @@ public class SettingsPlugin : ModuleRules
             "DataSerializer",
             "EasySettings",
             "AdvancedAsset",
-            "AdvancedAssetEditor"
+            "AdvancedAssetEditor",
+            "BlueprintSubsystems"
               // ... add private dependencies that you statically link with here ...  
           }
           );
