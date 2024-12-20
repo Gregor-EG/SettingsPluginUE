@@ -33,6 +33,10 @@
 		{
 			"Name": "AdvancedAsset",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintSubsystems",
+			"Enabled": true
 		}
 
 	]
